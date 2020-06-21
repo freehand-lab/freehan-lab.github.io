@@ -1,2 +1,2 @@
-# freehan-lab.github.io
+# freehand-lab.github.io
 Demo page
